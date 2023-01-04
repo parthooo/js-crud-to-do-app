@@ -1,8 +1,8 @@
 /*
  * Title: To Do Application using vanilla JS DOM
  * Description: This JS file has all the JS functions necessary to control the to do application
- * Author: Sumit Saha ( Learn with Sumit )
- * Date: 12/17/2020
+ * Author: Partho Rahman ( parthoo.rahman@gmail.com )
+ * Date: 04/01/2023
  *
  */
 
